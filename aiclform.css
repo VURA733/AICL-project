@@ -1,0 +1,19 @@
+.formstyle {
+  background-color:rgb(92, 205, 167);
+  padding-top: 20px;
+  border: 1px solid black;
+  padding-bottom: 20px;
+  margin: 20px;
+}
+input[type="text"],
+input[type="text"],
+input[type="email"],
+input[type="number"] { 
+  border: 1px solid black;
+}
+textarea.form-control {
+  border: 1px solid black;
+}
+button.btn.btn-primary {
+  text-align: center;
+}
